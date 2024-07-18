@@ -1,5 +1,4 @@
-# CS320
-Software Test, Automation QA
+# Software Test, Automation QA
 
 ###  How can I ensure that my code, program, or software is functional and secure?
 
