@@ -1,6 +1,7 @@
 # CS320
+Software Test, Automation QA
 
-#  How can I ensure that my code, program, or software is functional and secure?
+###  How can I ensure that my code, program, or software is functional and secure?
 
     I can develop and implement a comprehensive testing strategy, including unit tests, integration tests, and system tests.
     I can perform regular code reviews to catch logic errors, improve code quality, and ensure adherence to best practices.
@@ -15,7 +16,7 @@
     I can implement continuous monitoring tools to detect and respond to security threats in real-time.
     I can establish a process for addressing security incidents promptly and transparently.
 
-# How do I interpret user needs and incorporate them into a program?
+### How do I interpret user needs and incorporate them into a program?
 
     By conducting user interviews to understand their requirements, preferences, and pain points.
     By gathering feedback regularly through prototypes, beta releases, or user testing sessions.
@@ -28,7 +29,7 @@
     By establishing open communication channels with stakeholders, including users, product managers, and customer support teams.
     By actively involving stakeholders in the development process to ensure alignment with business goals.
 
-# How do I approach designing software?
+### How do I approach designing software?
 
     I conduct a thorough analysis of project requirements, considering functional and non-functional aspects.
     I clearly define the scope, objectives, and constraints of the software.
