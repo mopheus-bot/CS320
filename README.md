@@ -1,4 +1,5 @@
 # Software Test, Automation QA
+Java, JUnit, Unit Testing, TDD/QA, Test Strategy. CS320
 
 ###  How can I ensure that my code, program, or software is functional and secure?
 
